@@ -1,0 +1,19 @@
+p{
+    color: blue;
+    width: 100px;
+}
+button{
+    background-color: yellow;
+    text-decoration: line-through;
+    color: green;
+}
+
+body{
+    background-color: pink;
+}
+
+div{
+    background-color: white;
+    height: 20px;
+    width: 40px;
+}
